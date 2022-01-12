@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.colorBox {
+  width: 5px;
+  height: 5px;
+}
+
+.square {
+  width: 5px;
+  height: 5px;
+  float: left;
+  border-radius: 100%;
+  padding: 0.2px;
+  margin: 0.2px;
+}
+
+.egg {
+  width: 5px;
+  height: 10px;
+  transform: skew(20deg);
+}
